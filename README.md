@@ -5,6 +5,6 @@
 <img src="https://img.shields.io/badge/-Windows-%230078D6?style=flat-square&logo=Windows&logoColor=white"/>  <img src="https://img.shields.io/badge/-Microsoft SQL Server-%23CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>  <img src="https://img.shields.io/badge/-React.js-%2309D3AC?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-Electron-%2347848F?style=flat-square&logo=Electron&logoColor=white"/> <img src="https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 
 
-C++ Game Server Developer
+C++, C# Game Server Developer
 
 francium503@gmail.com
